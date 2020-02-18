@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/note-app-reacthooks-firebase/static/css/main.d1b05096.chunk.css",
+    "main.js": "/note-app-reacthooks-firebase/static/js/main.fb6756cd.chunk.js",
+    "main.js.map": "/note-app-reacthooks-firebase/static/js/main.fb6756cd.chunk.js.map",
+    "runtime-main.js": "/note-app-reacthooks-firebase/static/js/runtime-main.e0a0fff9.js",
+    "runtime-main.js.map": "/note-app-reacthooks-firebase/static/js/runtime-main.e0a0fff9.js.map",
+    "static/js/2.0c9dde32.chunk.js": "/note-app-reacthooks-firebase/static/js/2.0c9dde32.chunk.js",
+    "static/js/2.0c9dde32.chunk.js.map": "/note-app-reacthooks-firebase/static/js/2.0c9dde32.chunk.js.map",
+    "index.html": "/note-app-reacthooks-firebase/index.html",
+    "precache-manifest.2208f899b56a7ad3019f0b0cace2a0a9.js": "/note-app-reacthooks-firebase/precache-manifest.2208f899b56a7ad3019f0b0cace2a0a9.js",
+    "service-worker.js": "/note-app-reacthooks-firebase/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/note-app-reacthooks-firebase/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0c9dde32.chunk.js.LICENSE.txt": "/note-app-reacthooks-firebase/static/js/2.0c9dde32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a0fff9.js",
+    "static/js/2.0c9dde32.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fb6756cd.chunk.js"
+  ]
+}
